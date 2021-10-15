@@ -1,4 +1,1 @@
-# devopsrepo
-this is about devops training
-
 this is the first change of file in github.
